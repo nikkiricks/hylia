@@ -1,13 +1,8 @@
 {
   "showThemeCredit": true,
-  "name": "Hylia Starter Kit",
-  "shortDesc": "Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.",
-  "url": "https://hylia.website",
-  "authorEmail": "me@andy-bell.design",
-  "authorHandle": "@hankchizljaw",
-  "authorName": "Andy Bell",
+  "name": "Rabbit Holes",
+  "shortDesc": "Rabbit Holes is a blog by Nikki Ricks to explore topics on tech, capitalism, and books.",
   "enableThirdPartyComments": false,
-  "maxPostsPerPage": 5,
-  "paymentPointer": "$ilp.uphold.com/MggmnFEyQqhk",
+  "maxPostsPerPage": 10,
   "faviconPath": "/images/favicon.png"
 }
